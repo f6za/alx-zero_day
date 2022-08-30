@@ -1,1 +1,1 @@
-My first readme
+This is a description of my readme file
